@@ -1,0 +1,3 @@
+[submodule "SNesoid"]
+	path = SNesoid
+	url = git://github.com/Pretz/SNesoid.git
