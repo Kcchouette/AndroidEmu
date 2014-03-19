@@ -1,3 +1,6 @@
 [submodule "SNesoid"]
 	path = SNesoid
 	url = git://github.com/Pretz/SNesoid.git
+[submodule "common"]
+	path = common
+	url = git://github.com/Pretz/Emudroid-Common.git
