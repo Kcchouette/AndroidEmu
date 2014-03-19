@@ -1,4 +1,0 @@
-[submodule "SNesoid"]
-  path = SNesoid
-  url = https://github.com/Pretz/SNesoid.git
-  ignore = dirty
